@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518050660195",
+    "project_id": "intrepid-stage-422604-d2",
+    "storage_bucket": "intrepid-stage-422604-d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518050660195:android:b9efb2e688a65298281d56",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3K3fEYMBEkR4PLQbqwjTK60MeXy4zwa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518050660195:android:f04aa8a23953cfbc281d56",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3K3fEYMBEkR4PLQbqwjTK60MeXy4zwa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
